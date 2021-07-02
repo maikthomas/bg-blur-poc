@@ -19,7 +19,7 @@ npm run build-prod
 To create a development build:
 
 ```sh
-npm run build-dev
+npm start
 ```
 
 ## Running
