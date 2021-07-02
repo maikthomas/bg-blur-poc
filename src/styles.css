@@ -1,0 +1,31 @@
+#appContainer {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+#callContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  padding-bottom: 20px;
+}
+
+#publisherContainer {
+  height: 480px;
+  width: 640px;
+  padding-right: 10px;
+}
+
+#subscriberContainer {
+  height: 480px;
+  width: 640px;
+  padding-left: 10px;
+}
+
+#toggleButton {
+  font-size: 16px;
+}
